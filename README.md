@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suriya-Palaniswami
-- 👀 I’m interested in metaverse, web3, neuroscience and everything else that fascinates me... 
-- 🌱 I’m currently learning web3
+- 👀 I like to build VR and AR platforms and teach others to do it as well.
+- 🌱 I’m currently researching and exploring all things spatial computing
 - 💞️ I’m looking to collaborate on web3+vr
 - 📫 How to reach me twitter : @suriyaswamii
 
